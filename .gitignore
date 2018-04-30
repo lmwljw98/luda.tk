@@ -1,0 +1,13 @@
+static/image
+static/gif
+static/zip
+upload/
+__pycache__
+*.sqlite3
+*.pyc
+*/__pycache__
+*/migrations/__pycache__
+*.txt
+word/
+kmucafe/
+*.json
